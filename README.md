@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hello, I'm Parth Shinde~PS2!
 
-<!--
-**parthshindeAI/parthshindeAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A curious and passionate B.E. student majoring in **Artificial Intelligence & Data Science**  
+🛠️ Currently working on:  
+- AI-enabled stock monitoring system (Mini Project)  
+- Learning Data Warehousing, Web Computing, Statistics & Networks  
 
-Here are some ideas to get you started:
+📌 Focus Areas:  
+- 🤖 AI, Machine Learning and Robotics 
+- 📈 Data Science & Analytics  
+- 🤝 Team Projects & Leadership  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💭 I dream of using **AI & Robotics to contribute to national defense**
+
+> "Code with purpose. Learn with passion. Build with heart."  
+
+--------------------------------------------------------------------------------------------------
+
+📬 Let’s connect and collaborate!  
+⚽ I might be writing code, but my heart’s still on the football field.  
+☔ Bonus fact: I write better code when it’s raining 😄
+
